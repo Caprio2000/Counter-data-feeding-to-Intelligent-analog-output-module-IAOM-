@@ -68,18 +68,18 @@ begin
         FPGA_IO_D01 <= count_signal(1);
         FPGA_IO_D02 <= count_signal(2);
         FPGA_IO_D03 <= count_signal(3);
-        FPGA_IO_D04 <= count_signal(4);
-        FPGA_IO_D05 <= count_signal(5);
-        FPGA_IO_D06 <= count_signal(6);
-        FPGA_IO_D07 <= count_signal(7);
-        FPGA_IO_D08 <= count_signal(8);
-        FPGA_IO_D09 <= count_signal(9);
-        FPGA_IO_D10 <= count_signal(10);
-        FPGA_IO_D11 <= count_signal(11);
-        FPGA_IO_D12 <= count_signal(12);
-        FPGA_IO_D13 <= count_signal(13);
-        FPGA_IO_D14 <= count_signal(14);
-        FPGA_IO_D15 <= count_signal(15);
+        FPGA_IO_D04 <= count_signal(0);
+        FPGA_IO_D05 <= count_signal(1);
+        FPGA_IO_D06 <= count_signal(2);
+        FPGA_IO_D07 <= count_signal(3);
+        FPGA_IO_D08 <= count_signal(0);
+        FPGA_IO_D09 <= count_signal(1);
+        FPGA_IO_D10 <= count_signal(2);
+        FPGA_IO_D11 <= count_signal(3);
+        FPGA_IO_D12 <= count_signal(0);
+        FPGA_IO_D13 <= count_signal(1);
+        FPGA_IO_D14 <= count_signal(2);
+        FPGA_IO_D15 <= count_signal(3);
 end architecture_counter;
 
  
